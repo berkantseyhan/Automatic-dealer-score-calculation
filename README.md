@@ -1,4 +1,4 @@
-# Automatic-dealer-score-calculation
+# Automatic-dealer-score-calculator
 
 ![image](https://github.com/user-attachments/assets/71d8a141-4d03-45a9-8347-56c39bf2ec1f)
 
